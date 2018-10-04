@@ -30,6 +30,7 @@ public class xuanze {
 		System.out.println(Arrays.toString(a));
 		System.out.println("nihao");
 		System.out.println("hello");
+		System.out.println("hello");
 		}
 
 		}
