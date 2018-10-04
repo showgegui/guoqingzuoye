@@ -6,13 +6,10 @@ public class xuanze {
 
 	public static void main(String[] args) {
 		int a[]=new int[10];
-		int b[]=new int[10];
 		
 //		依次给数组赋值
 		for(int i=0;i<10;i++){
 		Scanner sc=new Scanner(System.in);
-		Scanner sb=new Scanner(System.in);
-		b[i]=sb.nextInt();
 		
 		System.out.println("please input the "+(i+1)+" number");
 		a[i]=sc.nextInt();
@@ -29,7 +26,10 @@ public class xuanze {
 		}
 		}
 
+	
 		System.out.println(Arrays.toString(a));
+		System.out.println("nihao");
+		System.out.println("hello");
 		}
 
 		}
