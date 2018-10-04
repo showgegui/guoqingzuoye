@@ -5,12 +5,10 @@ public class xuanze {
 	
 
 	public static void main(String[] args) {
-		int a[]=new int[10];
-		
+		int a[]=new int[10];	
 //		依次给数组赋值
 		for(int i=0;i<10;i++){
 		Scanner sc=new Scanner(System.in);
-		
 		System.out.println("please input the "+(i+1)+" number");
 		a[i]=sc.nextInt();
 		}
