@@ -19,6 +19,7 @@ public class bankbalance {
 			for(int j=0;j<balance[i].length;j++)
 				System.out.print(balance[i][j]+" ");
 			System.out.println();
+			System.out.println();
 		}
 	}
 
