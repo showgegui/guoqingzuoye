@@ -8,7 +8,7 @@ public class jinzhizhuanhuan {
 //		声明进制类型
 		System.out.println("a的值是"+a);
 		System.out.println("b的值是"+b);
-		System.out.println("c的值是"+b);
+		System.out.println("c的值是"+c);
 //		输出结果
 		
 	}
